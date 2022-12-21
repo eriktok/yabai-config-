@@ -1,4 +1,4 @@
-# Yabai and SKhd configuration
+# Yabai and Skhd configuration
 
 ## Installation
 
@@ -13,7 +13,7 @@ brew services restart yabai
 brew services restart skhd 
 ```
 
-### Remove config
+### Remove Yabai and Skhd
 
 ```
 rm -f "${HOME}"/.{yabai,skhd}rc
